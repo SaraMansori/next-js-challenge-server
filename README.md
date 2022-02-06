@@ -1,4 +1,7 @@
-# next-js-challenge-server
+# API REST 
+
+API REST developed with Express and MongoDB for the Next.js TailorHub Technical Challenge 
+(https://github.com/SaraMansori/next-js-challenge-front)
 
 ## Dependencies Used
 
