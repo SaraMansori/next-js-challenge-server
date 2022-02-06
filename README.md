@@ -1,5 +1,17 @@
 # next-js-challenge-server
 
+## Dependencies Used
+
+- Bcrypt
+- CORS
+- Dotenv
+- Express
+- JSON Web Token
+- Mongoose
+- Morgan
+- Nodemon
+- Typescript
+- TS Node Dev
 
 ## Server Routes
 
