@@ -1,7 +1,8 @@
 # API REST 
 
 API REST developed with **Node**, **Express** and **MongoDB** for the Next.js TailorHub Technical Challenge 
-(https://github.com/SaraMansori/next-js-challenge-front)
+
+[Link to the Next.js Application](https://github.com/SaraMansori/next-js-challenge-front)
 
 ## Dependencies Used
 
